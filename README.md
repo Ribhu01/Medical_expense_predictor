@@ -1,4 +1,4 @@
-Medical Insurance Cost Estimation
+# Medical Insurance Cost Estimation
 
 
 Check out the live website [link](https://ribhu01.github.io/Medical_expense_predictor/)
