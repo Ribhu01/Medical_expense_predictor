@@ -1,5 +1,9 @@
 Medical Insurance Cost Estimation
 
+
+Check out the live website [link](https://ribhu01.github.io/Medical_expense_predictor/)
+
+
 📋 Project Overview
 
 This project aims to predict medical insurance charges based on various features like age, sex, BMI, number of children, smoking habits, and region. It utilizes a machine learning model trained on the Medical_insurance.csv dataset to estimate the insurance costs, providing users with a quick and accurate way to understand potential charges.
